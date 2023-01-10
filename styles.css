@@ -1,0 +1,71 @@
+header{
+	background-color: mistyrose;
+	border-radius: 10px;
+}
+
+header #logoPic{
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#navBar{
+	font-family: Verdana;
+	background-color: orange;
+	font-size: 30px;
+	text-transform: lowercase;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+#navBar ul{
+	padding: 20px 0px;
+	margin: 0;
+	text-align: center;
+}
+
+#navBar ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+#navBar ul li a{
+	color: white;
+	text-decoration: none;
+	margin: 0px 5px;
+	padding: 5px;
+}
+
+#navBar ul li a:hover{
+  border-bottom: 3px solid #F2F2F2;
+  transition: 50ms linear 0s;
+  -moz-transition: 50ms linear 0s;
+  -webkit-transition: 50ms linear 0s;
+}
+
+#content img{
+	height: 350px;
+	display: block;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content h1{
+	text-align: left;
+	font-family: Verdana;
+	color: mediumblue;
+	margin-left: 50px;
+}
+
+#content p{
+	text-align: center;
+	font-size: 25px;
+}
+
+
